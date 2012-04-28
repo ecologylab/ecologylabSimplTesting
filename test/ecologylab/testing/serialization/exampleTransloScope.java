@@ -14,7 +14,7 @@ public class exampleTransloScope
 	public static final Class	TRANSLATIONS[]	= 
 	{ 
 		GenericExample.class, 
-		SingleExample.class,
+		SingleGenericParameterExample.class,
 		InternalGenerics.class
 	};
 	
